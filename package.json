@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wildcodeschool.github.io/workshop-template",
-  "name": "workshop-template",
+  "homepage": "https://wildcodeschool.github.io/atelier-powershell-gestion-des-utilisateurs-locaux",
+  "name": "atelier-powershell-gestion-des-utilisateurs-locaux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
