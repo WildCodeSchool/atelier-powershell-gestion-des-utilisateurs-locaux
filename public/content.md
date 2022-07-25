@@ -59,7 +59,7 @@ PS C:\Users\wilder> Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Unr
 * Afficher les comptes locaux:
 
 ```powershell
-PS C:\Users\wilder> Get-LocalUsers
+PS C:\Users\wilder> Get-LocalUser
 ```
 
 * Recherche d'un compte
